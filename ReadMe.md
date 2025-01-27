@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on web-based projects<br>👯 I’m looking to collaborate on AI projects<br>🤝 I’m looking for help with Machine learning<br>🌱 I’m currently learning advanced Python implementations<br>💬 Ask me about HTML, CSS and PHP<br>📫 Reach me at mjs80116@gmail.com<br>⚡ Fun fact I love Space, Time travel, Supernatural phenomenon
+🔭 I’m currently working on app development projects<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning advanced Python implementations<br>💬 Ask me about HTML, CSS and PHP<br>📫 Reach me at mjs80116@gmail.com<br>⚡ Fun fact I love Space, Time travel, Supernatural phenomenon
 
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/ghostmash05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/badassmashrafe" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ghostmash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/badassmashrafe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/morningstar_lucifer_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.twitter.com/themasrafi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mashrafi-rahman-32468726a/https://www.linkedin.com/in/mashrafi-rahman-32468726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mashrafi-rahman-32468726a/https://www.linkedin.com/in/mashrafi-rahman-32468726a/" height="30" width="40" /></a>
 <a href="https://twitter.com/https://www.twitter.com/themasrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/themasrafi" height="30" width="40" /></a>
