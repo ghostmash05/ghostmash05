@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on app development projects<br>👯 I’m looking to collaborate on AI projects<br>🌱 I’m currently learning advanced Python implementations<br>💬 Ask me about HTML, CSS and PHP<br>📫 Reach me at mjs80116@gmail.com<br>⚡ Fun fact I love Space, Time travel, Supernatural phenomenon
+🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate on Flutter projects<br>🌱 I’m currently learning advanced Python implementations<br>💬 Ask me about HTML, CSS and PHP<br>📫 Reach me at mjs80116@gmail.com<br>⚡ Fun fact I love Space, Time travel, Supernatural phenomenon
 
 
 ## 🌐 Connect with me:
