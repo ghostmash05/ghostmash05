@@ -1,27 +1,154 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate on Flutter projects<br>🌱 I’m currently learning advanced Python implementations<br>💬 Ask me about HTML, CSS and PHP<br>📫 Reach me at mjs80116@gmail.com<br>⚡ Fun fact I love Space, Time travel, Supernatural phenomenon
+# 👋 Welcome to My Digital Playground!
 
+Hey there! I'm **Mashrafi Rahman**, a passionate Software Engineer from Dhaka, Bangladesh, with a laser focus on crafting seamless mobile experiences using Flutter. I thrive on turning code into innovative solutions that make life easier and more fun. Whether it's building cross-platform apps, diving into full-stack web dev, or experimenting with ML and game design, I'm all about pushing tech boundaries. Currently channeling my energy into Flutter mastery while exploring the vast tech universe – working on AI/ML, eager to collaborate on Flutter projects, honing advanced Python, and geeking out over HTML/CSS/PHP. Fun fact: I'm fascinated by space, time travel, and supernatural phenomena! 🌌
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ghostmash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/badassmashrafe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/morningstar_lucifer_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.twitter.com/themasrafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mashrafi-rahman-32468726a/https://www.linkedin.com/in/mashrafi-rahman-32468726a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mashrafi-rahman-32468726a/https://www.linkedin.com/in/mashrafi-rahman-32468726a/" height="30" width="40" /></a>
-<a href="https://twitter.com/https://www.twitter.com/themasrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.twitter.com/themasrafi" height="30" width="40" /></a>
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> But don't worry, my code speaks for itself! 😎
+
+---
+
+## 🚀 Quick Stats Dashboard
+Here's a snapshot of my journey in numbers – because who doesn't love some quantifiable awesomeness?
+
+- **Projects Built**: 10+ (From finance trackers to multiplayer games – variety is my spice!)
+- **Apps Live on Google Play**: 2 (TakaMatters & Pixel Post – helping users manage money and light up messages)
+- **Leadership Impact**: Improved workplace efficiency by 25% as President of SUB Computing Club
+- **Coding Streak Potential**: Always grinding – check my GitHub for the real deal!
+- **Tech Versatility Score**: 9/10 (Flutter expert, but dabble in everything from Unreal Engine to ML models)
+- **Global Reach**: Native Bengali speaker with advanced English – bridging cultures through code
+
+### GitHub Pulse
+![Mashrafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostmash05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmash05&layout=compact&theme=radical&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ghostmash05&theme=radical&hide_border=true)
+
+---
+
+## 🛠️ My Tech Arsenal
+I'm a Flutter wizard at heart, but my toolkit spans frontend, backend, design, and beyond. Here's a creative breakdown:
+
+| Skill Category | Tools & Tech | Proficiency (Out of 10) |
+|---------------|-------------|-------------------------|
+| **Mobile Dev** | Flutter, Dart | ![90%](https://progress-bar.dev/90?title=Expert) |
+| **Web Dev** | React, Next.js, JavaScript | ![80%](https://progress-bar.dev/80?title=Advanced) |
+| **Backend & DB** | Firebase (NoSQL), MySQL, Python | ![75%](https://progress-bar.dev/75?title=Solid) |
+| **Game Design** | Unreal Engine Level Design | ![70%](https://progress-bar.dev/70?title=Enthusiast) |
+| **Design & Tools** | Figma (UI/UX), Adobe Illustrator, Git/GitHub | ![85%](https://progress-bar.dev/85?title=Creative) |
+
+📱 Flutter | 🌐 React | 🐍 Python | 🎮 Unreal | 🔥 Firebase  
+
+---
+
+## 🎨 Visual Tech Stack
+Here’s a snapshot of my favorite tools & frameworks in one glance:  
+
+<p align="center">
+  <!-- Mobile & Web -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,js,ts,html,css" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,python,nodejs" />
+  <br/>
+  <!-- Design & Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,ai,git,github,unreal" />
 </p>
 
-## ⚒️ Languages and Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br></br> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghostmash05&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghostmash05&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostmash05&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 Experience Highlights
+I've worn leadership hats while honing my tech skills. Think of this as my career level-up timeline:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ghostmash05&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+- **President, SUB Computing Club**  
+  Department of Computer Science and Engineering, State University of Bangladesh  
+  *Feb 2024 - Jan 2025*  
+  - Drove strategic partnerships that boosted organizational reputation and outreach 🚀  
+  - Implemented innovative policies, slashing inefficiencies by 25% 📊  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghostmash05&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+- **Joint Secretary, SUB Computing Club**  
+  *Jan 2022 - Feb 2024*  
+  - Collaborated on tech events and community building, fostering a vibrant coding ecosystem 🤝  
 
+---
 
+## 🎓 Education Journey
+From high school hustles to university triumphs – education fueled my tech passion:
+
+- **B.Sc in Computer Science and Engineering**  
+  State University of Bangladesh, Dhaka  
+  *Jan 2021 - Jan 2025*  
+  Graduated with CGPA 3.44/4.00 (86% equivalent) – Solid foundation in algorithms, software design, and more!  
+
+- **Higher Secondary School Certificate**  
+  Nawab Habibullah Model School and College, Dhaka  
+  Graduated with GPA 4.67/5.00 (93.4% equivalent)  
+
+- **Secondary School Certificate**  
+  Alexander Model Pilot High School, Lakshmipur  
+  Graduated with GPA 4.50/5.00 (90% equivalent)  
+
+![Education Progress](https://img.shields.io/badge/Academic%20Achievement-90%25%2B%20Average-brightgreen?style=flat-square)
+
+---
+
+## 🌟 Featured Projects
+I've built a diverse portfolio, but as a Flutter devotee, I shine brightest in mobile apps. Each project is a story of problem-solving and creativity. Check out my public repos below, with more coming soon!
+
+1. **TakaMatters** - Personal finance tracker app. Track expenses like a pro! (Available on Google Play) 💰  
+   *Tech: Flutter, Dart, Firebase*  
+
+2. **Mission Conquest** - 3D online multiplayer shooter game. Epic battles in virtual worlds! 🎮  
+   *Tech: Unreal Engine, Multiplayer Networking*  
+
+3. **Pixel Post** - Create, customize, and display LED billboard-style messages. Light up your words! (Available on Google Play) ✨  
+   *Tech: Flutter, Dart*  
+
+4. **SoundZen** - Minimalistic music player for clean interface lovers. Zen vibes only! 🎵  
+   *Tech: Flutter or Similar Mobile Framework*  
+
+5. **AutoParts Hub** - E-commerce marketplace for car and bike spare parts. Shop smart! 🛒  
+   *Tech: React/Next.js, Backend DB*  
+
+6. **BBSUB** - Blood donors information database website. Saving lives through data! 🩸  
+   *Tech: Full-Stack Web, MySQL*  
+
+7. **Mask Detector** - ML-based software to detect masks. Pandemic-era innovation! 😷  
+   *Tech: Python, Machine Learning*  
+
+8. **Nike Demo Webstore** - Stylish demo site showcasing Nike shoes. E-commerce flair! 👟  
+   *Tech: React, UI/UX Design*  
+
+9. **Multiple Disease Detection** - Web app using XGBoost for disease prediction. Health tech hero! 🩺  
+   *Tech: Python, ML Models, Web Framework*  
+   *[Repo: multiple-disease-detection](https://github.com/ghostmash05/multiple-disease-detection)* (TypeScript, 1 ⭐)  
+
+10. **Matrix Jobs** - Mock job board for UI/UX showcase. Perfecting the job hunt experience! 💼  
+    *Tech: Next.js, Figma Designs*  
+
+### Pinned Repos Spotlight
+- **[github_mini](https://github.com/ghostmash05/github_mini)**: A clean, user-friendly Flutter app for browsing GitHub profiles and repos. 📱 (Dart)  
+- **[multiple-disease-detection](https://github.com/ghostmash05/multiple-disease-detection)**: Web-based ML app for disease detection using XGBoost. 🩺 (TypeScript, 1 ⭐)  
+
+Want to collaborate? Fork a repo or drop a star! ⭐
+
+---
+
+## 🌍 Languages & More
+- **Bengali**: Native – My roots run deep! 🇧🇩  
+- **English**: Advanced – Communicating code worldwide! 🌐  
+
+---
+
+## 📬 Get in Touch
+Let's connect and build something awesome!  
+- **Email**: mjs80116@gmail.com  
+- **LinkedIn**: [linkedin.com/in/mashrafi-rahman](https://linkedin.com/in/mashrafi-rahman)  
+- **GitHub**: [github.com/ghostmash05](https://github.com/ghostmash05) (You're here!)  
+- **Phone**: +8801615579125  
+- **Location**: Dhaka, Bangladesh – Where innovation meets tradition  
+
+Feel free to reach out for Flutter gigs, tech chats, or just to say hi! 🚀
+
+---
+
+*Last Updated: September 13, 2025*  
+*Powered by passion, coffee, and endless curiosity.* ☕
