@@ -1,6 +1,6 @@
 # 👋 Welcome to My Digital Playground!
 
-Hey there! I'm **Mashrafi Rahman**, a passionate Software Engineer from Dhaka, Bangladesh, with a laser focus on crafting seamless mobile experiences using Flutter. I thrive on turning code into innovative solutions that make life easier and more fun. Whether it's building cross-platform apps, diving into full-stack web dev, or experimenting with ML and game design, I'm all about pushing tech boundaries. Currently channeling my energy into Flutter mastery while exploring the vast tech universe – working on AI/ML, eager to collaborate on Flutter projects, honing advanced Python, and geeking out over HTML/CSS/PHP. Fun fact: I'm fascinated by space, time travel, and supernatural phenomena! 🌌
+Hey there! I'm **Mashrafi Rahman**, a passionate Software Engineer from Dhaka, Bangladesh, with a laser focus on crafting seamless mobile experiences using Flutter. I thrive on turning code into innovative solutions that make life easier and more fun. Whether it's building cross-platform apps, diving into full-stack web dev, or experimenting with ML and game design, I'm all about pushing tech boundaries. Currently channeling my energy into Flutter mastery while exploring the vast tech universe – working on AI/ML, eager to collaborate on Flutter projects, honing advanced Python, and geeking out over HTML/CSS/PHP. Fun fact: I'm fascinated by space, time travel, and supernatural phenomena!
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 > But don't worry, my code speaks for itself! 😎
@@ -57,6 +57,12 @@ Here’s a snapshot of my favorite tools & frameworks in one glance:
 ## 📈 Experience Highlights
 I've worn leadership hats while honing my tech skills. Think of this as my career level-up timeline:
 
+- **Flutter Developer, Betopia Group**  
+  SM Technology, Banasree, Dhaka  
+  *May 2025 - Present*  
+  - Delivered multiple production grade projects to international clients 
+  - Contributed in maintaining good relations with clients from different regions  
+
 - **President, SUB Computing Club**  
   Department of Computer Science and Engineering, State University of Bangladesh  
   *Feb 2024 - Jan 2025*  
@@ -105,7 +111,7 @@ I've built a diverse portfolio, but as a Flutter devotee, I shine brightest in m
    *Tech: Flutter or Similar Mobile Framework*  
 
 5. **AutoParts Hub** - E-commerce marketplace for car and bike spare parts. Shop smart! 🛒  
-   *Tech: React/Next.js, Backend DB*  
+   *Tech: React/Next.js*  
 
 6. **BBSUB** - Blood donors information database website. Saving lives through data! 🩸  
    *Tech: Full-Stack Web, MySQL*  
@@ -143,7 +149,7 @@ Let's connect and build something awesome!
 - **LinkedIn**: [linkedin.com/in/mashrafi-rahman](https://linkedin.com/in/mashrafi-rahman)  
 - **GitHub**: [github.com/ghostmash05](https://github.com/ghostmash05) (You're here!)  
 - **Phone**: +8801615579125  
-- **Location**: Dhaka, Bangladesh – Where innovation meets tradition  
+- **Location**: Dhaka, Bangladesh
 
 Feel free to reach out for Flutter gigs, tech chats, or just to say hi! 🚀
 
