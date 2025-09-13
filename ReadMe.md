@@ -26,15 +26,15 @@ Here's a snapshot of my journey in numbers – because who doesn't love some qua
 ## 🛠️ My Tech Arsenal
 I'm a Flutter wizard at heart, but my toolkit spans frontend, backend, design, and beyond. Here's a creative breakdown:
 
-| Skill Category | Tools & Tech | Proficiency (Out of 10) |
-|---------------|-------------|-------------------------|
-| **Mobile Dev** | Flutter, Dart | ![90%](https://progress-bar.dev/90?title=Expert) |
-| **Web Dev** | React, Next.js, JavaScript | ![80%](https://progress-bar.dev/80?title=Advanced) |
-| **Backend & DB** | Firebase (NoSQL), MySQL, Python | ![75%](https://progress-bar.dev/75?title=Solid) |
-| **Game Design** | Unreal Engine Level Design | ![70%](https://progress-bar.dev/70?title=Enthusiast) |
-| **Design & Tools** | Figma (UI/UX), Adobe Illustrator, Git/GitHub | ![85%](https://progress-bar.dev/85?title=Creative) |
+| Skill Category | Tools & Tech | Proficiency |
+|---------------|-------------|-------------|
+| **Mobile Dev** | Flutter, Dart | ![Expert](https://img.shields.io/badge/Expert-★★★★★-blue?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Web Dev** | React, Next.js, JavaScript | ![Advanced](https://img.shields.io/badge/Advanced-★★★★☆-green?style=for-the-badge&logo=react&logoColor=white) |
+| **Backend & DB** | Firebase (NoSQL), MySQL, Python | ![Solid](https://img.shields.io/badge/Solid-★★★☆☆-yellow?style=for-the-badge&logo=firebase&logoColor=white) |
+| **Game Design** | Unreal Engine Level Design | ![Enthusiast](https://img.shields.io/badge/Enthusiast-★★★☆☆-purple?style=for-the-badge&logo=unrealengine&logoColor=white) |
+| **Design & Tools** | Figma (UI/UX), Adobe Illustrator, Git/GitHub | ![Creative](https://img.shields.io/badge/Creative-★★★★☆-orange?style=for-the-badge&logo=figma&logoColor=white) |
 
-📱 Flutter | 🌐 React | 🐍 Python | 🎮 Unreal | 🔥 Firebase  
+📱 Flutter | 🌐 React | 🐍 Python | 🎮 Unreal | 🔥 Firebase
 
 ---
 
