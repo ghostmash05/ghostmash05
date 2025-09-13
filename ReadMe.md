@@ -10,8 +10,7 @@ Hey there! I'm **Mashrafi Rahman**, a passionate Software Engineer from Dhaka, B
 ## 🚀 Quick Stats Dashboard
 Here's a snapshot of my journey in numbers – because who doesn't love some quantifiable awesomeness?
 
-- **Projects Built**: 10+ (From finance trackers to multiplayer games – variety is my spice!)
-- **Apps Live on Google Play**: 2 (TakaMatters & Pixel Post – helping users manage money and light up messages)
+- **Personal Projects Built**: 10+ (From finance trackers to multiplayer games – variety is my spice!)
 - **Leadership Impact**: Improved workplace efficiency by 25% as President of SUB Computing Club
 - **Coding Streak Potential**: Always grinding – check my GitHub for the real deal!
 - **Tech Versatility Score**: 9/10 (Flutter expert, but dabble in everything from Unreal Engine to ML models)
