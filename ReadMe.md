@@ -59,7 +59,7 @@ I've worn leadership hats while honing my tech skills. Think of this as my caree
 
 - **Flutter Developer, Betopia Group**  
   SM Technology, Banasree, Dhaka  
-  *May 2025 - Present*  
+  *May 2025 - December 2025*  
   - Delivered multiple production grade projects to international clients 
   - Contributed in maintaining good relations with clients from different regions  
 
@@ -105,13 +105,13 @@ I've built a diverse portfolio, but as a Flutter devotee, I shine brightest in m
    *Tech: Unreal Engine, Multiplayer Networking*  
 
 3. **Pixel Post** - Create, customize, and display LED billboard-style messages. Light up your words! (Available on Google Play) ✨  
-   *Tech: Flutter, Dart*  
+   *Tech: Kotlin, Android*  
 
 4. **SoundZen** - Minimalistic music player for clean interface lovers. Zen vibes only! 🎵  
-   *Tech: Flutter or Similar Mobile Framework*  
+   *Tech: Flutter, Dart*  
 
 5. **AutoParts Hub** - E-commerce marketplace for car and bike spare parts. Shop smart! 🛒  
-   *Tech: React/Next.js*  
+   *Tech: Flutter, Dart*  
 
 6. **BBSUB** - Blood donors information database website. Saving lives through data! 🩸  
    *Tech: Full-Stack Web, MySQL*  
@@ -123,15 +123,11 @@ I've built a diverse portfolio, but as a Flutter devotee, I shine brightest in m
    *Tech: React, UI/UX Design*  
 
 9. **Multiple Disease Detection** - Web app using XGBoost for disease prediction. Health tech hero! 🩺  
-   *Tech: Python, ML Models, Web Framework*  
-   *[Repo: multiple-disease-detection](https://github.com/ghostmash05/multiple-disease-detection)* (TypeScript, 1 ⭐)  
+   *Tech: Python(Flusk), ML Models, Next Js*  
+   *[Repo: multiple-disease-detection](https://github.com/ghostmash05/multiple-disease-detection)* (TypeScript)  
 
 10. **Matrix Jobs** - Mock job board for UI/UX showcase. Perfecting the job hunt experience! 💼  
     *Tech: Next.js, Figma Designs*  
-
-### Pinned Repos Spotlight
-- **[github_mini](https://github.com/ghostmash05/github_mini)**: A clean, user-friendly Flutter app for browsing GitHub profiles and repos. 📱 (Dart)  
-- **[multiple-disease-detection](https://github.com/ghostmash05/multiple-disease-detection)**: Web-based ML app for disease detection using XGBoost. 🩺 (TypeScript, 1 ⭐)  
 
 Want to collaborate? Fork a repo or drop a star! ⭐
 
@@ -155,5 +151,5 @@ Feel free to reach out for Flutter gigs, tech chats, or just to say hi! 🚀
 
 ---
 
-*Last Updated: September 13, 2025*  
+*Last Updated: December, 2025*  
 *Powered by passion, coffee, and endless curiosity.* ☕
