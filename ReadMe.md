@@ -101,9 +101,7 @@ Want to collaborate? Fork a repo or drop a star! ⭐
 ## 📬 Get in Touch
 Let's connect and build something awesome!  
 - **Email**: mjs80116@gmail.com  
-- **LinkedIn**: [linkedin.com/in/mashrafi-rahman](https://linkedin.com/in/mashrafi-rahman)  
-- **GitHub**: [github.com/ghostmash05](https://github.com/ghostmash05) (You're here!)  
-- **Phone**: +8801615579125  
+- **LinkedIn**: [linkedin.com/in/mashrafi-rahman](https://linkedin.com/in/mashrafi-rahman)   
 - **Location**: Dhaka, Bangladesh
 
 Feel free to reach out for Flutter gigs, tech chats, or just to say hi! 🚀
