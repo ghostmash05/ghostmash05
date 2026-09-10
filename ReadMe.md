@@ -54,47 +54,6 @@ Here’s a snapshot of my favorite tools & frameworks in one glance:
 
 ---
 
-## 📈 Experience Highlights
-I've worn leadership hats while honing my tech skills. Think of this as my career level-up timeline:
-
-- **Flutter Developer, Betopia Group**  
-  SM Technology, Banasree, Dhaka  
-  *May 2025 - December 2025*  
-  - Delivered multiple production grade projects to international clients 
-  - Contributed in maintaining good relations with clients from different regions  
-
-- **President, SUB Computing Club**  
-  Department of Computer Science and Engineering, State University of Bangladesh  
-  *Feb 2024 - Jan 2025*  
-  - Drove strategic partnerships that boosted organizational reputation and outreach 🚀  
-  - Implemented innovative policies, slashing inefficiencies by 25% 📊  
-
-- **Joint Secretary, SUB Computing Club**  
-  *Jan 2022 - Feb 2024*  
-  - Collaborated on tech events and community building, fostering a vibrant coding ecosystem 🤝  
-
----
-
-## 🎓 Education Journey
-From high school hustles to university triumphs – education fueled my tech passion:
-
-- **B.Sc in Computer Science and Engineering**  
-  State University of Bangladesh, Dhaka  
-  *Jan 2021 - Jan 2025*  
-  Graduated with CGPA 3.44/4.00 (86% equivalent) – Solid foundation in algorithms, software design, and more!  
-
-- **Higher Secondary School Certificate**  
-  Nawab Habibullah Model School and College, Dhaka  
-  Graduated with GPA 4.67/5.00 (93.4% equivalent)  
-
-- **Secondary School Certificate**  
-  Alexander Model Pilot High School, Lakshmipur  
-  Graduated with GPA 4.50/5.00 (90% equivalent)  
-
-![Education Progress](https://img.shields.io/badge/Academic%20Achievement-90%25%2B%20Average-brightgreen?style=flat-square)
-
----
-
 ## 🌟 Featured Projects
 I've built a diverse portfolio, but as a Flutter devotee, I shine brightest in mobile apps. Each project is a story of problem-solving and creativity. Check out my public repos below, with more coming soon!
 
